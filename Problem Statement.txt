@@ -1,0 +1,5 @@
+Classes at  University are spread far apart, and food canteens are located across multiple blocks. Between back-to-back classes, students barely get enough time to walk to the canteen, place an order, wait while the food is prepared, and still reach the next class on time.
+			During peak hours between classes, food courts become extremely crowded, and food preparation takes a long time after placing an order.
+As a result, students lose valuable time meant for attending classes, food courts become chaotic during rush hours, and students experience stress and frustration during peak hunger times. Often, students are forced to either skip meals
+or miss important lectures. The lack of a time-efficient food ordering system
+makes it difficult for students to get food when time is limited and hunger is high.
